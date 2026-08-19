@@ -27,7 +27,7 @@ SL_POINTS = 300.0
 TP_POINTS = 1500.0
 SL_COOLDOWN_BARS = 3
 
-TRADE_QTY = 0.04
+TRADE_QTY = 0.01
 
 STATE_FILE = "shark_bot_state.json"
 LOG_FILE = "shark_bot_activity.log"
